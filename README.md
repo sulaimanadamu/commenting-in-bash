@@ -5,6 +5,14 @@ They explain what the script or parts of the script do, making the code easier t
 - *What Are Comments?*
 Comments are lines in your code that are ignored by the interpreter. In Bash scripts, comments help document the purpose and logic of your code, making it easier for others (and yourself) to follow and understand the script's functionality.
 
+example of comments
+
+![commenting in bash](./images/comment-code.png)
+
+a couple of lines are not executed due to the hashtag as shown in the picture below.
+
+![result of commenting](./images/result-commenting.png)
+
 - *Single-Line Comments*
 Single-line comments in Bash start with the # symbol. Anything following this symbol on the same line is treated as a comment and is not executed.
 # This is a single-line comment in Bash
